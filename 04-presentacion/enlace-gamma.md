@@ -1,6 +1,7 @@
 # Presentación en Gamma
 
 - **Enlace público de Gamma:**
+- [[PRESENTACION](https://gamma.app/docs/Como-llega-la-yerba-mate-organica-a-Asuncion-krjmzz33hfsruur)]
 
 ## Estructura obligatoria (6 láminas)
 1. Portada (módulo, nombre, tecnicatura)
